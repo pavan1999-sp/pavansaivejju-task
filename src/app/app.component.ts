@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { MenupageComponent } from './menupage/menupage.component';
+
 
 @Component({
   selector: 'app-root',

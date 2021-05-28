@@ -1,0 +1,36 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+tr{
+    margin: 10px;
+}
+
+tr td{
+    color: rgb(34, 230, 27);
+    font-size: 20px;
+    padding-left:30px ;
+}
+
+img{
+    float: left;
+    height: 400px;
+    width: 400px;
+    margin-right: 40px;
+}
+
+p{
+    color: rgb(84, 94, 58);
+    margin: 30px;
+    font-size: 15px;
+}
+#det{
+    width: 100%;
+
+
+}
+#im{
+    width: 400px;
+    margin-left: 30%;
+    margin: 10px;
+}
